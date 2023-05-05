@@ -1,0 +1,13 @@
+main.c:90:5:main	1
+main.c:163:6:SystemClock_Config	4
+main.c:221:13:MX_USART3_UART_Init	2
+main.c:256:13:MX_GPIO_Init	1
+main.c:326:1:__io_putchar	1
+main.c:331:13:mqtt_publish_cb_t	1
+main.c:335:13:mqtt_request_cb	1
+main.c:341:13:mqtt_incoming_publish_cb	1
+main.c:348:13:mqtt_incoming_data_cb	1
+main.c:356:13:mqtt_connection_cb	2
+main.c:383:6:mqtt_manager	2
+main.c:430:6:HAL_TIM_PeriodElapsedCallback	2
+main.c:447:6:Error_Handler	1
